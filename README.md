@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🌱 I’m currently learning at Uva Wellassa University
+🌱 I’m currently studying at Uva Wellassa University
 
 <!--[![@chethanadhavaji's Holopin board](https://holopin.me/chethanadhavaji)](https://holopin.io/@chethanadhavaji)-->
 
