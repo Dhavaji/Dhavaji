@@ -1,10 +1,9 @@
 ### Hi there 👋
 
+[![@chethanadhavaji's Holopin board](https://holopin.me/chethanadhavaji)](https://holopin.io/@chethanadhavaji)
+
 <!--
 **Dhavaji/Dhavaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![@chethanadhavaji's Holopin board](https://holopin.me/chethanadhavaji)](https://holopin.io/@chethanadhavaji)
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
