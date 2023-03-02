@@ -33,8 +33,8 @@ I am a young and energetic enthusiastic, self-motivated, reliable, responsible, 
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🌱 I’m currently studying at Uva Wellassa University  
-
+- 🌱 I’m currently final year student at Uva Wellassa University  
+- 💻 I'm currenly working as a trainee software engineer at CodeGen Private Limited
 
 </td><td valign="top" width="50%">
 
