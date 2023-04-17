@@ -22,8 +22,6 @@
   
 
 
-
-### Glad to see you here!  
 I am a young and energetic enthusiastic, self-motivated, reliable, responsible, and hard-working individual who particularly possesses upgraded interpersonal skills along with unique communicative and excellent time keeping competencies, longing to follow instructions and perform the duties vested on an internship in the IT sector while meeting the requirements of company (organisation) and superiors. I am, furthermore, a mature team worker and adaptable to all challenging situations, consequently, I am capable of working efficiently, both in a team environment as well as using my own initiative.  
   
 
