@@ -64,8 +64,6 @@ I am a young and energetic enthusiastic, self-motivated, reliable, responsible, 
 
   
 
-<br/>  
-
   
 
 <br/>  
@@ -91,5 +89,8 @@ I am a young and energetic enthusiastic, self-motivated, reliable, responsible, 
 
 
 <br />
+
+
+<br/>  
 
 ----
